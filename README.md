@@ -9,7 +9,7 @@ Displays Stealth and Revealed over Profession skill 1.
 # How to use
 First, download the zip file to your reffect root folder like so:
 
-<img width="525" height="233" alt="image" src="https://github.com/user-attachments/assets/33e7f581-a5e3-4589-bb52-42a10148e9df" />
+<img width="491" height="189" alt="image" src="https://github.com/user-attachments/assets/e4ec1989-2c75-49bc-88d5-bed14aaf3867" />
 
 Then right click > Extract here (the necessary files will be added to the packs and icons subfolders).
 
